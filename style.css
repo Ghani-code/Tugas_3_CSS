@@ -1,0 +1,14 @@
+p.satu {
+  background-color: rgb(212, 103, 13);
+}
+p.dua {
+  background-color: blue;
+  color: white;
+}
+p.tiga {
+  font-family: "Courier New", Courier, monospace;
+  background-color: white;
+}
+p.empat {
+  font-weight: bolder;
+}
